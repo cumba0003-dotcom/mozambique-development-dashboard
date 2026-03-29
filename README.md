@@ -1,6 +1,7 @@
 ## Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
 
+
 # Mozambique Development Indicators Dashboard (2000–2024)
 
 This project analyzes key development indicators in Mozambique using World Bank data, with a comparative perspective against Sub-Saharan Africa.
