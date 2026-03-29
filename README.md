@@ -31,3 +31,16 @@ The analysis focuses on three main pillars:
 - Missing data was not imputed
 
 ## 📁 Project Structure
+data/
+scripts/
+report/
+dashboard/
+
+## 🔗 Data Source
+
+https://data.worldbank.org/
+
+## 👤 Author
+
+Raimundo Cumba  
+MSc in Survey Statistics and Data Analysis (ongoing)
