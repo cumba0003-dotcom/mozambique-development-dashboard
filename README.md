@@ -1,5 +1,5 @@
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard.png)
 
 
 # Mozambique Development Indicators Dashboard (2000–2024)
